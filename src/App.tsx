@@ -14,7 +14,7 @@ function App() {
       <section id="home" className="pt-20 pb-32 px-4 bg-gradient-to-br from-indigo-50 to-white">
         <div className="max-w-7xl mx-auto mt-16 text-center">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
-            Machine Learning Engineer
+            Mark Kahoush -Machine Learning Engineer
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             Specializing in deep learning, computer vision, natural language processing, and MLOps. Building scalable intelligent systems that solve real-world problems.
@@ -113,7 +113,7 @@ function App() {
             />
             <ExperienceCard
               title="Senior ML Engineer"
-              company="AI Research Lab"
+              company="Synopsys"
               period="01/2021 - 09/2024"
               description={[
                 "Researched and prototyped innovative solutions as well as provided system recommendations improving performance by 35%.",
@@ -124,8 +124,8 @@ function App() {
             />
             <ExperienceCard
               title="Machine Learning Engineer II"
-              company="Tech Solutions Inc."
-              period="2019 - 2021"
+              company="Synopsys"
+              period="09/23 - 01/24"
               description={[
                 "Utilized Ansible to automate deployment processes, reducing manual intervention by 50% and increasing deployment speed by 40%",
                 "Implemented Kubernetes Helm charts for orchestration, simplifying the management of complex applications and enhancing the team’s deployment capabilities reducing environment-related issues by 30%",
